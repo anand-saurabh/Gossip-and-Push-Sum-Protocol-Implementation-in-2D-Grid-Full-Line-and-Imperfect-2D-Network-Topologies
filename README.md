@@ -14,7 +14,9 @@ A sample command to run gossip algorithm for the “line” topology with 1000 a
 
 dotnet fsi --langversion:preview project2.fsx 1000 line gossip
 
-What is working: The Gossip and Push-Sum algorithms are working for all the topologies : Full Network, 2D Grid, Line, Imperfect 2D Grid. Also, we are getting convergence for both the algorithms (Gossip and Push Sum) for all the topologies. Largest Network Used:
+What is working: The Gossip and Push-Sum algorithms are working for all the topologies : Full Network, 2D Grid, Line, Imperfect 2D Grid. Also, we are getting convergence for both the algorithms (Gossip and Push Sum) for all the topologies. 
+
+Largest Network Used:
 
 For the Gossip Algorithm:
 
