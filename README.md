@@ -18,16 +18,16 @@ dotnet fsi --langversion:preview project2.fsx numNodes topology algorithm
 dotnet fsi --langversion:preview project2.fsx 1000 line gossip
 What is working: 
 The Gossip and Push-Sum algorithms are working for all the topologies : Full Network, 2D Grid, Line, Imperfect 2D Grid. Also, we are getting convergence for both the algorithms (Gossip and Push Sum) for all the topologies.
+
 Largest Network Used:
 
-
 For the Gossip Algorithm:
+
       * Full Network Topology - 5000 nodes
       * 2D Grid - 5000 nodes
       * Line - 5000 nodes
       * Imperfect 2D - 5000 nodes
 For the Push-Sum Algorithm:
-
 
       * Full Network Topology - 1000 nodes 
       * 2D Grid - 1000 nodes
