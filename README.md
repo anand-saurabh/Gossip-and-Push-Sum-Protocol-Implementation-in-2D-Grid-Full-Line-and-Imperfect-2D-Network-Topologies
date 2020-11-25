@@ -1,4 +1,4 @@
-In this project, we implemented Gossip and Push-Sum communication protocols using F# and Akka Actor Model on 2D Grid, Full, Line and Imperfect 2D network topologies.
+In this project, we have implemented Gossip and Push-Sum communication protocols using F# and Akka Actor Model on 2D Grid, Full, Line and Imperfect 2D network topologies.
 
 How to run the program:
 * Clone the code repository. Extract the zip file, go to extracted location from terminal and run following command:
